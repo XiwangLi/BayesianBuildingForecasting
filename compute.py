@@ -68,7 +68,7 @@ param_names[5] = 'temp coeff 2'
 scens[:,5] = np.random.normal(loc=25, scale=1, size=num_scens)
 
 # P(Theta_k)
-prior = np.full(num_scens, Decimal('1')/num_scens, dtype=Decimal)
+prior = np.full(num_scens, Decimal('2')/num_scens, dtype=Decimal)
 
 #---------------------------------------------------------------------------
 # compute posterior
