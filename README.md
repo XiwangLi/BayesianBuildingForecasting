@@ -1,5 +1,5 @@
 
-![](GP_timeSseries_forecasting.png "Gaussian process time series forecasting")
+
 
 
 Introduction
