@@ -1,5 +1,5 @@
 
-
+![](Electricity_timeSeries_forecasting.png "Time Series Guassian Process")
 
 
 Introduction
