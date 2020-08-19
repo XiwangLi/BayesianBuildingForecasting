@@ -93,7 +93,7 @@ param_names[5] = 'Cooling Slope (kW/F)'
 scens[:,5] = np.random.normal(loc=25, scale=3, size=num_scens)
 
 # P(Theta_k)
-prior = np.full(num_scens, Decimal('1')/num_scens, dtype=Decimal)
+prior = np.full(num_scens, Decimal('2')/num_scens, dtype=Decimal)
 
 #---------------------------------------------------------------------------
 # compute posterior
